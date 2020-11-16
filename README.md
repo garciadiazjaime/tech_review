@@ -6,3 +6,9 @@ Please enter your topics [here](https://docs.google.com/spreadsheets/d/1rYlXm-46
 Some sample topics have been provided [here](https://docs.google.com/spreadsheets/d/1yeKm8hJbyRGhiUDvZv9-S3Zzu5hDtET-O6Yeci-VPOs/edit?usp=sharing). You are free to use them or come up with your own topics!
 
 ## Due: Nov 15, 2020 at 11:59 pm CST
+
+## Demo
+
+Teach this webapp how to play: Rock, Paper, Scissor :)
+
+[Demo](http://rps.mintitmedia.com)
